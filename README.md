@@ -15,6 +15,7 @@ Humourastic\_ is a stylish, lightweight personal webpage—similar to Linktree�
 * 💻 **Responsive Design**: Looks great on both desktop and mobile devices.
 
 ---
+![image](https://github.com/user-attachments/assets/e676d94c-0099-4503-8d7f-e3c803cfab78)
 
 ## 📁 Project Structure
 
