@@ -1,4 +1,4 @@
-# 😂 Humourastic
+# Humourastic
 
 > A custom Linktree-style website — designed, developed & delivered for a real client
 
